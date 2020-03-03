@@ -1,0 +1,9 @@
+/*
+this is a simple stylesheet.
+edits the <hr> tag in the login system.
+© Pocket, Inc.
+ */
+.hr-25 {
+ width: 25%;
+    border-color: #00a2a2;
+}
